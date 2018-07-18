@@ -50,3 +50,5 @@ function hidedirectorsbackdoor (){ // stops backdoor access to directors
         setTimeout(function() { alert('You Do Not Have Permission To Access This Page'); }, 1000);
     }
 }
+
+
